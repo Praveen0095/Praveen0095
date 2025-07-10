@@ -66,7 +66,7 @@
 ## 📬 Connect with Me
 
 - ✉️ [praveen.s.analyst@gmail.com](mailto:praveen.s.analyst@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/praveen-s-analyst)
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveens)
 - 🌐 [Portfolio (Coming Soon)]()
 
 ---
