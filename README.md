@@ -35,9 +35,8 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [✈️ Airfare EDA](https://github.com/Praveen0095/Exploratory-data-analysis) | Explores the link between airfare prices and passenger trends across US cities | Python, Seaborn, Pandas |
-| 💹 Financial News Sentiment Analysis | NLP-based sentiment extraction from financial headlines | Python, NLTK, Sklearn |
-| ⛽ Mileage Prediction Model | Built a regression model to predict vehicle fuel efficiency | Python, Scikit-learn |
-| 📊 Customer Churn Dashboard | Visualized churn KPIs for mock telecom data | Power BI, SQL, Excel |
+| [💹 Financial News Sentiment Analysis](https://github.com/Praveen0095/Financial-Market-News-Sentiment-Analysis) | NLP-based sentiment extraction from financial headlines | Python, NLTK, Sklearn |
+| [⛽ Mileage Prediction Model](https://github.com/Praveen0095/Mileage_Prediction_Regression_Analysis) | Built a regression model to predict vehicle fuel efficiency | Python, Scikit-learn |
 
 ---
 
