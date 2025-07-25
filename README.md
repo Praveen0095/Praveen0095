@@ -53,14 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen0095&show_icons=true&theme=react&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen0095&layout=compact&theme=react" width="300" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
