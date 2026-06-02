@@ -34,10 +34,11 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [✈️ Airfare EDA](https://github.com/Praveen0095/Exploratory-data-analysis) | Explores the link between airfare prices and passenger trends across US cities | Python, Seaborn, Pandas |
-| [⛽ Fuel Efficiency Prediction Model](https://github.com/Praveen0095/Fuel_Efficiency_Prediction_Regression_Analysis) | Built a regression model to predict vehicle fuel efficiency | Python, Scikit-learn |
-| [💹 Financial News Sentiment Analysis](https://github.com/Praveen0095/Financial-Market-News-Sentiment-Analysis) | NLP-based sentiment extraction from financial headlines | Python, NLTK, Sklearn |
+| [Airfare EDA](https://github.com/Praveen0095/Exploratory-data-analysis) | Explores the link between airfare prices and passenger trends across US cities | Python, Seaborn, Pandas |
+| [Fuel Efficiency Prediction Model](https://github.com/Praveen0095/Fuel_Efficiency_Prediction_Regression_Analysis) | Built a regression model to predict vehicle fuel efficiency | Python, Scikit-learn |
+| [ Financial News Sentiment Analysis](https://github.com/Praveen0095/Financial-Market-News-Sentiment-Analysis) | NLP-based sentiment extraction from financial headlines | Python, NLTK, Sklearn |
 | [Singapore Bus Boarding Decisions](https://github.com/Praveen0095/Crowd-Aware-Bus-Boarding-Decisions-A-Rule-Based-A-B-Analysis-Using-LTA-Data) | This project analyzes how additional real-time information influences commuter boarding decisions in a public transport context | Python, PostgreSQL |
+| [Olist e-commerce Analysis](https://github.com/Praveen0095/Olist-Ecommerce-data-analysis) | A E-commerce analysis done by simulating stakeholder requirements and analyzing the operational factors influencing customer behavior and marketplace performance. | Python, SQL, PowerBI |
 ---
 
 ## 🛠️ Languages & Tools
