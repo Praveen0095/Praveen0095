@@ -1,66 +1,55 @@
-<h1 align="center">Hi 👋, I'm Praveen S</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Explorer</h3>
+# Praveen S
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveen0095&label=Profile%20views&color=0e75b6&style=flat" alt="praveen0095" />
-</p>
+Data Analyst and Data Engineer | PySpark, dbt, Snowflake, SQL, Python
 
----
+I bridge the gap between heavy lifting data engineering and decision driving data analytics. I have a background in Mechanical Engineering from VIT, and I specialize in building scalable ETL and ELT pipelines that turn complex datasets into clear business strategies. Whether I'm architecting cloud infrastructure with PySpark, dbt, AWS, and Snowflake, or running A/B tests, cohort analysis, and RFM segmentation, I focus on building reliable data systems from end to end.
 
-🎓 I'm currently pursuing my B.Tech in Mechanical Engineering at **VIT**, but I’ve found my true calling in **data analytics**.
+Open to roles in Data Engineering, Data Analytics, and Analytics Engineering.
 
-📊 I specialize in turning raw data into compelling stories using **Python, SQL, Power BI, and Tableau**.
+## Tech Stack
 
-🛠️ I enjoy building:
-- Interactive Dashboards
-- Business KPI Reports
-- Statistical & Predictive Models
-- End-to-End ETL Pipelines
+* **Data Engineering:** PySpark, dbt, ETL and ELT pipelines, microbatch processing, data modeling
+* **Cloud and Databases:** AWS (S3, EC2), Snowflake, PostgreSQL, MySQL
+* **Languages and Querying:** Python (Pandas, NumPy), advanced SQL (CTEs, window functions)
+* **Analytics and BI:** A/B testing, cohort analysis, RFM segmentation, Power BI, Tableau
 
-🔍 I’m passionate about exploring **real-world datasets** in domains like:
-- Financial Trends
-- Retail Analytics
-- Customer Churn & Behavior
-- Sentiment Analysis
+## Projects
 
-🧠 Always learning something new — currently diving deeper into:
-- Advanced Excel & PowerPoint storytelling
-- Data Architecture & ETL workflows
-- Applied ML for business problems
+### E-commerce Retention and Cohort Pipeline
+Architected a Snowflake infrastructure using PySpark and dbt to run 24 month quarterly cohort and RFM tracking. The analysis identifies retention strategies targeting a 10 to 12% lift.
 
----
+### Real Time Bus Analytics (Singapore LTA)
+Built a microbatch API pipeline and a logistic regression model for A/B test simulation. The model estimates a 6.9% reduction in crowd boarding probability.
 
-## 📂 Featured Projects
+### E-commerce Operations Analysis (Olist)
+Processed over 96K orders in MySQL to diagnose supply chain bottlenecks and regional seller density imbalances.
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Airfare EDA](https://github.com/Praveen0095/Exploratory-data-analysis) | Explores the link between airfare prices and passenger trends across US cities | Python, Seaborn, Pandas |
-| [Fuel Efficiency Prediction Model](https://github.com/Praveen0095/Fuel_Efficiency_Prediction_Regression_Analysis) | Built a regression model to predict vehicle fuel efficiency | Python, Scikit-learn |
-| [ Financial News Sentiment Analysis](https://github.com/Praveen0095/Financial-Market-News-Sentiment-Analysis) | NLP-based sentiment extraction from financial headlines | Python, NLTK, Sklearn |
-| [Singapore Bus Boarding Decisions](https://github.com/Praveen0095/Crowd-Aware-Bus-Boarding-Decisions-A-Rule-Based-A-B-Analysis-Using-LTA-Data) | This project analyzes how additional real-time information influences commuter boarding decisions in a public transport context | Python, PostgreSQL |
-| [Olist e-commerce Analysis](https://github.com/Praveen0095/Olist-Ecommerce-data-analysis) | A E-commerce analysis done by simulating stakeholder requirements and analyzing the operational factors influencing customer behavior and marketplace performance. | Python, SQL, PowerBI |
----
+## Experience
 
-## 🛠️ Languages & Tools
+**Data Analytics Intern (Training Program), YBI Foundation**
+July 2024 to August 2024
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+* Completed a hands on training program covering end to end analysis workflows
+* Built a customer churn analysis using logistic regression to identify at risk segments
+* Wrote SQL and Python scripts to automate report generation and reduce repetitive manual tasks
+* Visualized findings in Tableau dashboards and presented insights to peers and mentors
 
----
+## Certifications
 
+* Relational Database Administration (DBA)
+* Data I/O and Preprocessing with Python and SQL
+* Data Analytics and Databases on AWS
+* SQL (Intermediate)
+* Process Data from Dirty to Clean
 
-## 📬 Connect with Me
+## Education
 
-- ✉️ [praveen.s.analyst@gmail.com](mailto:praveen.s.analyst@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/praveens95)
-- 🌐 [Portfolio (Coming Soon)]()
+**Bachelor, Mechanical Engineering**, Vellore Institute of Technology (July 2022 to July 2026)
 
----
+**High School Diploma, Science Stream**, The Ashok Leyland (April 2021 to March 2022)
 
-*“Data is the new oil. I help refine it into insights.”*
+## Contact
+
+* Email: praveen.s.analyst@gmail.com 
+* LinkedIn: linkedin.com/in/praveens95
+* Portfolio: github.com/Praveen0095
